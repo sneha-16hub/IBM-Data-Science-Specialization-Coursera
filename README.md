@@ -1,6 +1,6 @@
 # IBM Data Science Specialization(Coursera)
 
-## topics Covered :
+## Topics Covered :
 
 Python for Data Science, AI & Development
 
